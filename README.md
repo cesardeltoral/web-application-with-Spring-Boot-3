@@ -1,0 +1,1 @@
+A web application built with Spring Boot 3, demonstrating a robust MVC architecture. This project includes RESTful APIs, dynamic front-end integration, and database connectivity. It’s ideal for learning or building scalable Java-based web applications with best practices in Spring Boot.
